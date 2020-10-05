@@ -1,0 +1,32 @@
+add_newline = false
+
+[character]
+disabled = true
+
+[cmd_duration]
+disabled = true
+
+[directory]
+truncation_length = 1
+
+[line_break]
+disabled = true
+
+[git_branch]
+symbol = ""
+style = "green"
+
+[aws]
+disabled = true
+
+[ruby]
+disabled = true
+
+[nodejs]
+disabled = true
+
+[golang]
+disabled = true
+
+[python]
+disabled = true
